@@ -61,3 +61,5 @@ mysql 命令
 	使用mysqladmin方式：
 	mysqladmin -u root -p password 新密码
 	执行后提示输入旧密码完成修改密码
+	
+24. ceshi
